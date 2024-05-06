@@ -1,0 +1,41 @@
+.navbar{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    padding: 0 623px;
+    position: relative;
+    z-index: 2;
+    object-fit: cover
+ 
+
+  }
+
+  .lista {
+    list-style-type: none;
+    margin: 0;
+    right: 200px;
+    display: flex;
+    position: relative;
+    left: -300px;
+
+  }
+
+  .item {
+    margin-right: 30px;
+   float: left;
+    font-size: 18px;
+    white-space: nowrap;
+    text-decoration: none;
+    color: #fff;
+  }
+
+  .logo{
+    height: 80px;
+    position: relative left ;
+    
+    width: 200px;
+    float: left;
+  }
+

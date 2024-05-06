@@ -1,0 +1,30 @@
+.footer{
+    background-color: black;
+    height: -100px;
+    color: white;
+    right: 100px;
+    max-width: -180%;
+    height: 260px;
+    width: 1650px;
+    padding: 15px ;
+    display: flex;
+    
+    
+}
+.texto{
+    width: 70%;
+    display: block;
+}
+
+.logo{
+    float: right;
+    margin-top: 10;
+    right: 200px;
+    top: -50px;
+    left: 50px;
+    display: flex;
+    
+  
+    
+}
+

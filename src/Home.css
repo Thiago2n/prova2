@@ -1,0 +1,59 @@
+.titulo{
+    font-size: 35px;
+    font-style: bold 5px;
+    position: relative;
+    bottom: 65px;
+    top: -5px;
+}
+
+.sub-titulo{
+    position: relative;
+    font-size: 17px;
+    bottom: 80px;
+    top:-22px;
+}
+
+.Foto{
+    position: relative;
+    right: 30px;
+    bottom: 40px;
+    height: 350px;
+    width: 280px;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+
+
+.texto1{
+    position: relative;
+    font-size: 15;
+    right: 470px;
+    bottom: 120px;
+    top: -47px;
+}
+
+.texto2{
+    position: relative;
+    font-size: 15;
+    left: -160px;
+    bottom: 120px;
+}
+
+.texto3{
+    position: relative;
+    font-size: 15;
+    bottom: 185px;
+    left: 135px;
+    top: -191px;
+}
+.texto4{
+    position: relative;
+    font-size: 15;
+    bottom: 185px;
+    left:430px;
+    top: -265px;
+
+
+}
+
